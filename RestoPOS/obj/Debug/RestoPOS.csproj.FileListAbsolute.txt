@@ -1,0 +1,12 @@
+C:\Users\ASUS\source\repos\RestoPOS\RestoPOS\bin\Debug\RestoPOS.exe.config
+C:\Users\ASUS\source\repos\RestoPOS\RestoPOS\bin\Debug\RestoPOS.exe
+C:\Users\ASUS\source\repos\RestoPOS\RestoPOS\bin\Debug\RestoPOS.pdb
+C:\Users\ASUS\source\repos\RestoPOS\RestoPOS\obj\Debug\RestoPOS.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\RestoPOS\RestoPOS\obj\Debug\RestoPOS.Properties.Resources.resources
+C:\Users\ASUS\source\repos\RestoPOS\RestoPOS\obj\Debug\RestoPOS.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\RestoPOS\RestoPOS\obj\Debug\RestoPOS.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\RestoPOS\RestoPOS\obj\Debug\RestoPOS.exe
+C:\Users\ASUS\source\repos\RestoPOS\RestoPOS\obj\Debug\RestoPOS.pdb
+C:\Users\ASUS\source\repos\RestoPOS\RestoPOS\obj\Debug\RestoPOS.Checkout.resources
+C:\Users\ASUS\source\repos\RestoPOS\RestoPOS\obj\Debug\RestoPOS.InputMenu.resources
+C:\Users\ASUS\source\repos\RestoPOS\RestoPOS\obj\Debug\RestoPOS.Table.resources
